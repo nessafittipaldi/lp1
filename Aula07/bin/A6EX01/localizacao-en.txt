@@ -1,0 +1,30 @@
+menu: Choose an option:
+opcao1:1 - Insert product
+opcao2:2 - Insert product at specific position
+opcao3:3 - Query product (by name)
+opcao4:4 - Query product (by position)
+opcao5:5 - Replace product
+opcao6:6 - Remove product (by name)
+opcao7:7 - Remove product (by position)
+opcao0:0 - Exit
+
+mensagemNomeProduto: Enter the product name:
+mensagemPosicaoProduto: Enter the product position:
+mensagemNomeConsulta: Enter the name of the product to be queried:
+mensagemPosicaoConsulta: Enter the position of the product to be queried:
+mensagemNomeSubstituir: Enter the product to be replaced:
+mensagemPosicaoSubstituir: Enter the product position:
+mensagemNomeRemover: Enter the name of the product to be removed:
+mensagemPosicaoRemover: Enter the position of the product to be removed:
+
+mensagemProdutoInserido: Product inserted.
+mensagemProdutoInseridoPosicao: Product inserted at position.
+mensagemProdutoExiste: This product exists.
+mensagemProdutoNaoExiste: This product does not exist.
+mensagemProdutoSubstituido: Product replaced.
+mensagemPosicaoInvalida: Invalid format or invalid position.
+mensagemPosicaoInvalidaSubstituir: Invalid position. It was not possible to replace the product.
+mensagemProdutoRemovido: Product removed.
+mensagemPosicaoInvalidaRemover: Invalid position. It was not possible to remove the product.
+mensagemOpcaoInvalida: Invalid option.
+mensagemProgramaEncerrado: Program finished!

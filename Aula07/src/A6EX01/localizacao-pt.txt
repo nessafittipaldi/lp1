@@ -1,0 +1,31 @@
+menu: Escolha uma opção:
+opcao1:1 - Inserir produto
+opcao2:2 - Inserir produto em posição específica
+opcao3:3 - Consultar produto (pelo nome)
+opcao4:4 - Consultar produto (pela posição)
+opcao5:5 - Substituir produto
+opcao6:6 - Remover produto (pelo nome)
+opcao7:7 - Remover produto (pela posição)
+opcao0:0 - Sair
+
+mensagemNomeProduto: Digite o nome do produto:
+mensagemPosicaoProduto: Digite a posição do produto:
+mensagemNomeConsulta: Digite o nome do produto a ser consultado:
+mensagemPosicaoConsulta: Digite a posição do produto a ser consultado:
+mensagemNomeSubstituir: Digite o produto a ser substituído:
+mensagemPosicaoSubstituir: Digite a posição do produto:
+mensagemNomeRemover: Digite o nome do produto a ser removido:
+mensagemPosicaoRemover: Digite a posição do produto a ser removido:
+
+mensagemProdutoInserido: Produto inserido.	
+mensagemProdutoInseridoPosicao: Produto inserido na posição.
+mensagemProdutoExiste: Esse produto existe.
+mensagemProdutoNaoExiste: Esse produto não existe.
+mensagemProdutoSubstituido: Produto substituído.
+mensagemPosicaoInvalida: Formato invalido ou posição inválida.
+mensagemPosicaoInvalidaSubstituir: Posição inválida. Não foi possível substituir o produto.
+mensagemProdutoRemovido: Produto removido.
+mensagemPosicaoInvalidaRemover: Posição inválida. Não foi possível remover o produto.
+mensagemOpcaoInvalida: Opção inválida.
+mensagemProgramaEncerrado: Programa encerrado!
+

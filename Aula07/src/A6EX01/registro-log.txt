@@ -1,0 +1,6 @@
+[29/09/2023 - 13:38:20]O usuário solicitou a inserção de produto.
+[29/09/2023 - 13:38:51]O usuário solicitou a inserção de produto.
+[29/09/2023 - 13:39:03]O usuário solicitou a inserção de produto em posição específica.
+[29/09/2023 - 13:39:25]O usuário substituiu um produto
+[29/09/2023 - 13:40:09]O usuário removeu um produto pelo nome
+[29/09/2023 - 16:30:05]O usuário solicitou a inserção de produto.[29/09/2023 - 16:38:44]O usuário solicitou a inserção de produto.
